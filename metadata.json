@@ -1,6 +1,9 @@
 {
-  "name": "EternalSMP Dashboard",
+  "name": "eternalsmp-dashboard",
+  "displayName": "EternalSMP Dashboard",
   "description": "Fantasy-themed webhook dashboard for EternalSMP server administration.",
+  "version": "1.0.0",
+  "private": true,
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
